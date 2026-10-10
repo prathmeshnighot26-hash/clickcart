@@ -1,0 +1,3 @@
+S C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git init
+Initialized empty Git repository in C:/Users/prathmesh nighot/OneDrive/Desktop/devops/.git/
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> 
