@@ -1,0 +1,8 @@
+s changed, 12 insertions(+), 2 deletions(-)
+ create mode 100644 git.txt
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git commit -m "git"
+On branch git
+nothing to commit, working tree clean
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git checkout devops
+Switched to branch 'devops'
+PS C:\Users\prathmesh nighot\On
