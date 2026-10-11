@@ -1,0 +1,7 @@
+C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git branch git
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git branch devops
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git branch prod
+PS C:\Users\prathmesh nighot\OneDrive\Desktop\devops> git branch
+  devops
+  git
+* main
